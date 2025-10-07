@@ -1,6 +1,10 @@
 h1
 {
-    text-align: center; font-family: "impact";}
+    text-align: center; font-family: "impact"; ;}
 
 h2{
     font-family: "impact";}
+    
+    body {
+        background-color: #32ffb7;
+    }
